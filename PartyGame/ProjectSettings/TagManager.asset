@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Timer
+  - Bear
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 698860781
+    locked: 0
+  - name: Timer
+    uniqueID: 956946383
+    locked: 0
+  - name: Second Back
+    uniqueID: 3326253675
+    locked: 0
+  - name: Background
+    uniqueID: 1341827255
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
